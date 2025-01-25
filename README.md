@@ -1,7 +1,7 @@
 # Catatan Kuliah Big Data
 
 Materi
-- Pengantar Big Data
+- [Pengantar Big Data](Pengantar Big Data.md)
 - Penyimpanan dan Manajemen Big Data
 - Framework Pemrosesan Big Data
 - Penyerapan dan Integrasi Data
